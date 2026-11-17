@@ -1,0 +1,10 @@
+Judge: only money already paid, on chain in USDC, to my wallet; no client or ID.
+42 of 52 make.fun bounties settled on chain: 1,167 places of 108,680 entries, $11,803, $10.11 each, 799 accounts.
+Best account: $570.50, 25 bounties, 14 paid, $22.82 each.
+Fees join the pot: $100 posted is $276, so a place is pot ÷ places, $11.04 not $4.00.
+Rule: enter only if places ÷ entries ≥ 5%, last place beats the fee, engine ships it: 16 of 52, 5.2 new a day.
+Day 1: wallet, $1 fee, text engine. In: rich-01 333 entries/25 places/$276, 7.5%; relax-01 306/25/$146, 8.2%. Out: gta6 2,759/100/$1,666, 3.6%; roblox-brainrot $20 a place, needs Roblox Studio.
+Edge: kits print the judge's prompt and model; 4 drafts duel under it, a cent a game. Scores are live and 10 tries a day make a loser a reading.
+Days 2-30: 48 in all, 45 min each.
+Kill: 3 misses drop a format; under $150 by day 14, stop.
+Math: 156 bounties, 48 pass, half the record $11.41 = $548, fees $2; floor top-50 $6.58 = $316, day 30 $646 or $414.
